@@ -1,0 +1,26 @@
+:root
+{
+    --body-color:#ffffff;
+    --out-line:1px solid red;
+    --sub-out-line:1px solid #0033ff;
+    --margin-right:.6em;
+    --mt:.4em;
+    --mt--2em:.4em;
+
+    --video-height:133px;
+    --video-wdith:247px;
+
+}
+
+.margin-top-1-2em
+{
+    margin-top: 1.2em;
+}
+.gray--color
+{
+    color: #606060;
+}
+.bold
+{
+    font-weight: bold;
+}
